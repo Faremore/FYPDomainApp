@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import requests
-import whois
 from datetime import datetime
 
 api_key = 'AIzaSyB9ESjm8yiiyA4Fkr386lAoc3FhyAQ1G7M'
