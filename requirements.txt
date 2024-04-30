@@ -1,1 +1,5 @@
 whois
+spacy
+pandas
+re
+numpy
