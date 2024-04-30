@@ -1,5 +1,5 @@
 whois
 spacy
 pandas
-re
+wordsegment
 numpy
