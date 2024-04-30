@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import requests
-!pip install python-whois
 import whois
 from datetime import datetime
 
